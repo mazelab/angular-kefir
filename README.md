@@ -2,7 +2,7 @@
 
 Angular module to handle more reactive with streams from Kefir.js
 
-This module is based of the [https://github.com/xgrommx/angular-kefir](small experiment from xgrommx).
+This module is based of the [angular-frp project from xgrommx](https://github.com/xgrommx/angular-frp/blob/gh-pages/app/frp/angular-kefir.js).
 
 ##Installation
 
